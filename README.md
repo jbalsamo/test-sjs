@@ -1,4 +1,6 @@
-# SolidStart
+# SolidStart Test
+
+My attempt to use Solid Start to build a test site with sample links and data.
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
 
